@@ -16,8 +16,8 @@ This project monitors a CSV file for changes and automatically generates an HTML
 
 Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/muyishen2040/Automated-Map-and-GIF-Generator.git
+cd Automated-Map-and-GIF-Generator
 ```
 
 ### 2. Install Necessary Libraries
